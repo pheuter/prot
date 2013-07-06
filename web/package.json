@@ -1,0 +1,14 @@
+{
+  "name": "prot",
+  "version": "0.0.1",
+  "dependencies": {},
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-compass": "~0.1.3",
+    "grunt-contrib-watch": "~0.4.4",
+    "matchdep": "~0.1.1"
+  },
+  "engines": {
+    "node": ">=0.8.0"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "prot-server",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "repository": "",
+  "author": "Mark Fayngersh",
+  "dependencies": {
+    "rethinkdb": "~1.7.0-0",
+    "express": "~3.3.3"
+  }
+}

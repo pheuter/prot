@@ -1,5 +1,3 @@
-require 'susy'
-
 sass_dir = 'styles'
 css_dir = 'stylesheets'
 images_dir = 'images'
